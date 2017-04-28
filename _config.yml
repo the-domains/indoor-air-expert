@@ -1,0 +1,35 @@
+content: []
+description: 'prodocts, services & consultancy for pure indoor air'
+title: CLEAN INDOOR AIR
+content_rating:
+  adult: false
+layout_spectrum: 0.9131839454639703
+github: true
+name: indoor air expert
+author: {}
+analytics: {}
+opengraph: {}
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  brandStrength: 0.1788433590388958
+  lightness: 0.4184608819006153
+  saturation: 0.3333858678427958
+  rhythmicContrast: 0.1714058909964296
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+typography_spectrum: 0.6461922351736575
