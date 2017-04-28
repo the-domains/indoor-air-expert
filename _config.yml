@@ -6,7 +6,9 @@ content_rating:
 layout_spectrum: 0.9131839454639703
 github: true
 name: indoor air expert
-author: {}
+author:
+  email: o3cures@gmail.com
+  name: Nihal E
 analytics: {}
 opengraph: {}
 collections:
