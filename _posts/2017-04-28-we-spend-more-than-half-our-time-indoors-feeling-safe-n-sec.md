@@ -1,8 +1,8 @@
 ---
-dateModified: '2017-04-28T12:46:02.003Z'
+dateModified: '2017-04-28T20:05:38.783Z'
 via: {}
 inFeed: true
-datePublished: '2017-04-28T12:46:21.876Z'
+datePublished: '2017-04-28T20:05:40.479Z'
 description: This is a global problem.
 sourcePath: >-
   _posts/2017-04-28-we-spend-more-than-half-our-time-indoors-feeling-safe-n-sec.md
