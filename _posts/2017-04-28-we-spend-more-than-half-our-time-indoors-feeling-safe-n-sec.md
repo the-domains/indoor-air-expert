@@ -1,9 +1,9 @@
 ---
-dateModified: '2017-04-28T20:05:38.783Z'
+dateModified: '2017-04-28T20:09:31.513Z'
 via: {}
 inFeed: true
-datePublished: '2017-04-28T20:05:40.479Z'
-description: This is a global problem.
+datePublished: '2017-04-28T20:09:32.693Z'
+description: Indoor Air is more polluted than Outside Air.This is a global problem.
 sourcePath: >-
   _posts/2017-04-28-we-spend-more-than-half-our-time-indoors-feeling-safe-n-sec.md
 title: ''
@@ -16,7 +16,7 @@ _type: Blurb
 ---
 <button data-role="cta" style="">Free Advice! </button>
 
-This is a global problem.
+Indoor Air is more polluted than Outside Air.This is a global problem.
 
 We run an independent indoor air cleaning service in our beautiful island Sri Lanka.
 
