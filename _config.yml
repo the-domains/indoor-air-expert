@@ -35,3 +35,7 @@ color:
     - '#3E606F'
     - '#193441'
 typography_spectrum: 0.6461922351736575
+purpose:
+  - type: contact
+    url: 'mailto:o3cures@gmail.com'
+    label: Contact me
